@@ -1,0 +1,17 @@
+c:\users\mm\documents\visual studio 2013\Projects\SoundTimer\SoundTimer\bin\Debug\SoundTimer.exe
+c:\users\mm\documents\visual studio 2013\Projects\SoundTimer\SoundTimer\bin\Debug\SoundTimer.pdb
+c:\users\mm\documents\visual studio 2013\Projects\SoundTimer\SoundTimer\obj\Debug\SoundTimer.csprojResolveAssemblyReference.cache
+c:\users\mm\documents\visual studio 2013\Projects\SoundTimer\SoundTimer\obj\Debug\SoundTimer.Properties.Resources.resources
+c:\users\mm\documents\visual studio 2013\Projects\SoundTimer\SoundTimer\obj\Debug\SoundTimer.csproj.GenerateResource.Cache
+c:\users\mm\documents\visual studio 2013\Projects\SoundTimer\SoundTimer\obj\Debug\SoundTimer.exe
+c:\users\mm\documents\visual studio 2013\Projects\SoundTimer\SoundTimer\obj\Debug\SoundTimer.pdb
+c:\users\mm\documents\visual studio 2013\Projects\SoundTimer\SoundTimer\obj\Debug\SoundTimer.SoundTimer.resources
+D:\project\SoundTimer\SoundTimer\bin\Debug\SoundTimer.exe
+D:\project\SoundTimer\SoundTimer\bin\Debug\SoundTimer.pdb
+D:\project\SoundTimer\SoundTimer\obj\Debug\SoundTimer.csprojResolveAssemblyReference.cache
+D:\project\SoundTimer\SoundTimer\obj\Debug\SoundTimer.SoundTimer.resources
+D:\project\SoundTimer\SoundTimer\obj\Debug\SoundTimer.Properties.Resources.resources
+D:\project\SoundTimer\SoundTimer\obj\Debug\SoundTimer.csproj.GenerateResource.Cache
+D:\project\SoundTimer\SoundTimer\obj\Debug\SoundTimer.exe
+D:\project\SoundTimer\SoundTimer\obj\Debug\SoundTimer.pdb
+D:\project\SoundTimer\SoundTimer\obj\Debug\SoundTimer.LockScreen.resources

@@ -1,0 +1,11 @@
+D:\project\SoundTimer\SoundTimer\bin\Debug\SoundTimer.exe
+D:\project\SoundTimer\SoundTimer\bin\Debug\SoundTimer.pdb
+D:\project\SoundTimer\SoundTimer\obj\Debug\WorkTimer.csprojResolveAssemblyReference.cache
+D:\project\SoundTimer\SoundTimer\obj\Debug\WorkTimer.WorkTimer.resources
+D:\project\SoundTimer\SoundTimer\obj\Debug\WorkTimer.LockScreen.resources
+D:\project\SoundTimer\SoundTimer\obj\Debug\WorkTimer.Properties.Resources.resources
+D:\project\SoundTimer\SoundTimer\obj\Debug\WorkTimer.csproj.GenerateResource.Cache
+D:\project\SoundTimer\SoundTimer\obj\Debug\SoundTimer.exe
+D:\project\SoundTimer\SoundTimer\obj\Debug\SoundTimer.pdb
+D:\project\SoundTimer\WorkTimer\obj\Debug\SoundTimer.exe
+D:\project\SoundTimer\WorkTimer\obj\Debug\SoundTimer.pdb
