@@ -1,0 +1,9 @@
+D:\project\WorkTimer\WorkTimer\obj\Release\WorkTimer.WorkTimer.resources
+D:\project\WorkTimer\WorkTimer\obj\Release\WorkTimer.LockScreen.resources
+D:\project\WorkTimer\WorkTimer\obj\Release\WorkTimer.Properties.Resources.resources
+D:\project\WorkTimer\WorkTimer\obj\Release\WorkTimer.csproj.GenerateResource.Cache
+D:\project\WorkTimer\WorkTimer\bin\Release\WorkTimer.exe
+D:\project\WorkTimer\WorkTimer\bin\Release\WorkTimer.pdb
+D:\project\WorkTimer\WorkTimer\obj\Release\WorkTimer.csprojResolveAssemblyReference.cache
+D:\project\WorkTimer\WorkTimer\obj\Release\WorkTimer.exe
+D:\project\WorkTimer\WorkTimer\obj\Release\WorkTimer.pdb
